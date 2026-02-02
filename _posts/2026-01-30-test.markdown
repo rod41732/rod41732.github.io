@@ -3,6 +3,7 @@ title: Custom title
 date: 2026-01-30
 permalink: /special/blog
 
+tags: test
 
 ---
 # H1 from markdown

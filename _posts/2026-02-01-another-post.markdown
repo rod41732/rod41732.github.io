@@ -3,6 +3,7 @@ title: My title from front matter
 layout: post
 date: 2026-01-31 12:34:56
 
+tags: test markdown
 
 ----
 
