@@ -1,0 +1,11 @@
+---
+title: Custom title
+date: 2026-01-30
+permalink: /special/blog
+
+
+---
+# H1 from markdown
+
+## H2 from markdown
+no title dank

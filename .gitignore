@@ -1,0 +1,9 @@
+_site
+.sass-cache
+.jekyll-cache
+.jekyll-metadata
+vendor
+
+# ignore Gemfile.lock
+# According to Claude: Why? GitHub Pages builds your site with its own specific gem versions. Your local Gemfile.lock would conflict with what GitHub uses, potentially causing build failures.
+Gemfile.lock
